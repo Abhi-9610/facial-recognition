@@ -1,0 +1,9 @@
+# please import all necessary pacakges 
+# pip install pyttsx3
+# pip install face_recognition
+# pip install numpy
+# pip install firebase
+# pip install pickle 
+
+
+# please read the imports from main.py file if any error
